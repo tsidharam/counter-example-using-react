@@ -2,7 +2,7 @@
 
 README
 
-This repository for creating a hello world using reactJS.
+This repository for creating a counter example using reactJS.
 
 Version 1.0
 
